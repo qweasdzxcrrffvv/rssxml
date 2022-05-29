@@ -1,4 +1,0 @@
-
-Z:\python\rss\rss_xml>git add . 
-
-Z:\python\rss\rss_xml>git commit -m "update" 
