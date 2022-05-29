@@ -1,0 +1,2 @@
+
+Z:\python\rss\rss_xml>git add . 
