@@ -25,11 +25,15 @@
     
 <outline text="果核剥壳" title="果核剥壳" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/ghxi.xml" htmlUrl="https://www.ghxi.com"/>
     
+<outline text="Notion Updates" title="Notion Updates" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/notion_updates.xml" htmlUrl="https://www.notion.so/releases"/>
+    
 <outline text="片库 - 电影" title="片库 - 电影" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/pianku_movie.xml" htmlUrl="https://www.btnull.org"/>
     
 <outline text="片库 - 剧集" title="片库 - 剧集" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/pianku_series.xml" htmlUrl="https://www.btnull.org"/>
     
 <outline text="Quicker Versions" title="Quicker Versions" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/quicker_versions.xml" htmlUrl="https://getquicker.net/Help/Versions"/>
+    
+<outline text="Streamlit Updates" title="Streamlit Updates" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/streamlit_updates.xml" htmlUrl="https://docs.streamlit.io/library/changelog"/>
     
 <outline text="SIBCS" title="SIBCS" type="rss" xmlUrl="https://raw.githubusercontent.com/qweasdzxcrrffvv/rssxml/main/weibo_sibcs.xml" htmlUrl="https://weibo.com/sibcs"/>
     
