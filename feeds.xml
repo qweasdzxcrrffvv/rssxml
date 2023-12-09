@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Inoreader Feeds</title>
+</head>
+<body>
+
+<outline text="电影最 TOP" title="电影最 TOP" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_17819768.xml" htmlUrl="https://space.bilibili.com/17819768/video"/>
+    
+<outline text="音乐私藏馆" title="音乐私藏馆" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_229733301.xml" htmlUrl="https://space.bilibili.com/229733301/video"/>
+    
+<outline text="赛雷三分钟" title="赛雷三分钟" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_26108626.xml" htmlUrl="https://space.bilibili.com/26108626/video"/>
+    
+<outline text="何止电影" title="何止电影" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_270355850.xml" htmlUrl="https://space.bilibili.com/270355850/video"/>
+    
+<outline text="歌白说 Geslook" title="歌白说 Geslook" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_315846984.xml" htmlUrl="https://space.bilibili.com/315846984/video"/>
+    
+<outline text="星球研究所" title="星球研究所" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_326427334.xml" htmlUrl="https://space.bilibili.com/326427334/video"/>
+    
+<outline text="新石器公园" title="新石器公园" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_489640651.xml" htmlUrl="https://space.bilibili.com/489640651/video"/>
+    
+<outline text="36 氪" title="36 氪" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_90183256.xml" htmlUrl="https://space.bilibili.com/90183256/video"/>
+    
+<outline text="木鱼水心" title="木鱼水心" type="rss" xmlUrl="https://frp-bid.top:43400/rss/bilibili_927587.xml" htmlUrl="https://space.bilibili.com/927587/video"/>
+    
+<outline text="果核剥壳" title="果核剥壳" type="rss" xmlUrl="https://frp-bid.top:43400/rss/ghxi.xml" htmlUrl="https://www.ghxi.com"/>
+    
+<outline text="片库 - 电影" title="片库 - 电影" type="rss" xmlUrl="https://frp-bid.top:43400/rss/pianku_movie.xml" htmlUrl="https://www.btnull.org"/>
+    
+<outline text="片库 - 剧集" title="片库 - 剧集" type="rss" xmlUrl="https://frp-bid.top:43400/rss/pianku_series.xml" htmlUrl="https://www.btnull.org"/>
+    
+<outline text="Quicker Versions" title="Quicker Versions" type="rss" xmlUrl="https://frp-bid.top:43400/rss/quicker_versions.xml" htmlUrl="https://getquicker.net/Help/Versions"/>
+    
+<outline text="SIBCS" title="SIBCS" type="rss" xmlUrl="https://frp-bid.top:43400/rss/weibo_sibcs.xml" htmlUrl="https://weibo.com/sibcs"/>
+    
+</body>
+</opml>
+    
